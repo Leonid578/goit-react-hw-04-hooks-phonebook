@@ -1,5 +1,4 @@
 import style from './ContactList.module.css';
-import React from 'react';
 import NotContacts from 'Components/NotContacts/NotContacts';
 import propTypes from 'prop-types';
 import Filter from '../Filter/Filter';

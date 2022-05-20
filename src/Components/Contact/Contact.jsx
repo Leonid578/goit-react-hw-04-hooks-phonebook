@@ -3,7 +3,6 @@ import propTypes from 'prop-types';
 import { FiX } from 'react-icons/fi';
 
 const Contact = ({ elem, deleteEl }) => {
-  console.log('contact')
   return (
     <li className={style.li}>
       {elem.name}: {elem.numberTel}
